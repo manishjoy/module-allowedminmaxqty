@@ -73,7 +73,7 @@ The extension is aimed to provide the store admin extra control over the allowed
    <tr>
       <td>Magento 2.x</td>
 	   <td><code>bin/magento --version</code></td>
-	   <td><a href="https://devdocs.magento.com">MySQL</a></td>
+	   <td><a href="https://devdocs.magento.com">Magento</a></td>
 	</tr>
 </tbody>
 </table>
