@@ -2,11 +2,12 @@
 
     ``manishjoy/module-allowedminmaxqty``
 
- - [Main Functionalities](#markdown-header-main-functionalities)
- - [Installation](#markdown-header-installation)
- - [Configuration](#markdown-header-configuration)
- - [Specifications](#markdown-header-specifications)
- - [Attributes](#markdown-header-attributes)
+ - [Main Functionalities](#main-functionalities)
+ - [Installation](#installation)
+ - [Configuration](#configuration)
+ - [Screenshots](#screenshots)
+ - [Prerequisites](#prerequisites)
+ - [Feedback and Support](#feedback-and-support)
 
 
 ## Main Functionalities
@@ -80,7 +81,7 @@ The extension is aimed to provide the store admin extra control over the allowed
 
 ## Feedback and Support
 
- - <a href="https://manishjoy.github.io/">https://manishjoy.github.io/</a>
+ - <a href="https://manishjoy.github.io/">https://manishjoy.github.io</a>
 
  - <a href="mailto:manishjoy1993@hotmail.com">manishjoy1993@hotmail.com</a>
 
