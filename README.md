@@ -13,7 +13,7 @@
 ## Main Functionalities
 The extension is aimed to provide the store admin extra control over the allowed quantity of the products while adding to cart.
 
- - It can be set at store level by defining Minimum and Maximum Allowed quantity
+ - It can be set at store level by defining Minimum and Maximum Allowed quantity in Store => Configuration => Manish Joy => Allowed MinMax Qty
  - It can be set individually for each product by defining Minimum and Maximum Allowed quantity
 
 ## Installation
