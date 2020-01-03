@@ -1,4 +1,4 @@
-# Mage2 Module ManishJoy AllowedMinMaxQty
+# Magento 2.x Extension | ManishJoy_AllowedMinMaxQty
 
     ``manishjoy/module-allowedminmaxqty``
 
