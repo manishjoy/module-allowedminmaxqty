@@ -7,6 +7,7 @@
  - [Configuration](#configuration)
  - [Screenshots](#screenshots)
  - [Prerequisites](#prerequisites)
+ - [Support The Work](#linked-my-work)
  - [Feedback and Support](#feedback-and-support)
 
 
@@ -79,11 +80,17 @@ The extension is aimed to provide the store admin extra control over the allowed
 </table>
 
 
+## Liked My Work?
+
+<a href="https://www.paypal.me/manishjoy" rel="nofollow"><img height="36" src="https://manishjoy.github.io/img/coffee-btn-image.png" border="0" alt="Buy Me a Coffee" data-canonical-src="https://manishjoy.github.io/img/coffee-btn-image.png" style="max-width:100%;"></a>
+
+--- OR ---
+
+<a href='https://www.patreon.com/manishjoy' target='_blank'><img src='https://i.ibb.co/rHdTFtj/patreon-btn.jpg' width='200' border='0' alt='SUPPORT ME ON PATREON' /></a>
+
+
 ## Feedback and Support
 
  - <a href="https://manishjoy.github.io/">https://manishjoy.github.io</a>
 
  - <a href="mailto:manishjoy1993@hotmail.com">manishjoy1993@hotmail.com</a>
-
-
-
